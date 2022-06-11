@@ -4,3 +4,7 @@
 
 ## Beschreibung
 
+- alle Geräte sind mit einem zentralen Knoten verbunden
+- zentraler Knoten ist meist ein sogenannter **Switch**
+
+> Ein Switch ist ein Netzwerkgerät, welches Daten von einem Sender zum entsprechenden Empfänger weiterleiten kann.

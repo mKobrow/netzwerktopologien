@@ -4,6 +4,5 @@
 
 ## Beschreibung
 
-- ein Gerät im Netzwerk ist immer mit zwei anderen Geräten verbunden
-- der erste Rechner ist mit dem zweiten Rechner verbunden, der zweite Rechner ist mit dem dritten Rechner verbunden, usw. bis ein Rechner wieder mit dem ersten Rechner verbunden ist
-- auch hier wird eine Kontrolle benötigt, wer wann Daten durch den Ring schicken darf
+- jedes Gerät des Netzwerks ist mit jedem anderen Gerät über ein separates Kabel verbunden
+- theoretisch Kommunikation zwischen allen Geräten gleichzeitig möglich
