@@ -8,3 +8,23 @@
 - zentraler Knoten ist meist ein sogenannter **Switch**
 
 > Ein Switch ist ein Netzwerkgerät, welches Daten von einem Sender zum entsprechenden Empfänger weiterleiten kann.
+
+## Kriterienuntersuchung
+
+- **Skalierbarkeit**
+  - Erweiterung, Wegnahme von Geräten einfach
+- **Fehlertoleranz**
+  - Ausfall von Rechnern egal
+  - Switch als zentrale Verzweigung bietet allerdings Fehlerpotential
+- **Verkabelungsaufwand**
+  - jeder Rechner ein Kabel plus Switch als Zentrales Element → schlechter als Ring
+
+<center>
+
+|                     | Bus | Ring | Stern |
+|---------------------|-----|------|-------|
+| Skalierbarkeit      | +   | ++   | ++    |
+| Fehlertoleranz      | +   | -    | +     |
+| Verkabelungsaufwand | ++  | +    | -     |
+
+</center>

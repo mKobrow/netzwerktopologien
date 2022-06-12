@@ -20,11 +20,14 @@ Im Beispiel eurer Klasse sind die Schüler:innen die "Geräte" und die Möglichk
 
 ## Kriterien für Topologien
 
-Doch warum braucht es eigentlich verschiedene Netzwerktopologien? Diese Frage lässt sich durch die Betrachtung verschiedener Kriterien beantworten, die bei der Erstellung eines Netzwerkes betrachtet werden müssen.
+Doch warum braucht es eigentlich verschiedene Netzwerktopologien? Diese Frage lässt sich durch die Betrachtung verschiedener Kriterien beantworten, die bei der Erstellung eines Netzwerkes beachtet werden müssen.
 
-- Kosten der Verbindungen (Kabel, Switches)
-- Geschwindigkeit der Verbindung
-- Ausfallsicherheit der Verbindung
+- **Skalierbarkeit**
+  - Wie verhält sich das Netz, wenn ich einen oder mehrere Rechner hinzufüge oder entferne?
+- **Fehlertoleranz**
+  - Wie reagiert das Netz auf den Ausfall eines Rechners oder eines Kabels?
+- **Verkabelungsaufwand**
+  - Wie viele Kabel müssen für die Verbindung der Rechner aufgewendet werden?
 
 
 Gehe nun auf [die nächste Seite](/bus) und lerne die erste Topologie kennen.

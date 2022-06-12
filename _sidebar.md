@@ -2,7 +2,7 @@
 - [Einleitung](einleitung.md)
   - [Bustopologie](bus.md)
   - [Ringtopologie](ring.md)
-  - [Meshtopologie](mesh.md)
   - [Sterntopologie](stern.md)
+  - [Meshtopologie](mesh.md)
 
 - [Quellen](quellen.md)
