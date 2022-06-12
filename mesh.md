@@ -26,3 +26,8 @@
 | Verkabelungsaufwand | ++  | +    | -     |      |
 
 </center>
+
+> [!AUFGABE]
+> Überlege dir anhand der vorgegangenen Kriterienuntersuchungen für Bus, Ring und Stern, inwiefern die Kriterien durch das Mesh erfüllt werden.
+> 
+> Notiere die Bewertungen und die Begründungen. Klicke danach hier um meine Überlegungen dazu zu sehen.

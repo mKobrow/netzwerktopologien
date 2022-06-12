@@ -10,6 +10,7 @@ Netzwerke zwischen Computern sind ebenfalls dazu gedacht Informationen unter ver
 
 Diese Fragen beantworten sogenannte **Netzwerktopologien**:
 
+> [!DEFINITION]
 > Eine **Netzwerktopologie** beschreibt, wie Geräte und Leitungen zwischen ihnen in einem Rechnernetz angeordnet sind.
 
 Im Beispiel eurer Klasse sind die Schüler:innen die "Geräte" und die Möglichkeit der (sprachlichen) Kommunikation zwischen ihnen ist die "Leitung". Dabei können natürlich gänzlich verschiedene Muster auftreten, als die, die ihr jetzt kennenlernen werdet, aber wir beschränken uns hier vorerst auf die grundlegenden Topologien.

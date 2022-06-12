@@ -1,3 +1,11 @@
-.app-name img{
+.app-name img {
     max-width: 60px;
+}
+
+.alert.callout.hint {
+    border-left-color: #42b983 !important;
+}
+
+.alert.callout.hint .title {
+    color: #42b983;
 }
