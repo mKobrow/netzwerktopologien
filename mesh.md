@@ -1,6 +1,6 @@
 # Meshtopologie
 
-![Bild eines Mesh-Netzwerkes](images/Meshtopologie.svg 'Mesh-Netzwerk')
+![Bild eines Mesh-Netzwerkes](images/mesh.svg ':size=300 Schaubild Meshtopologie')
 
 ## Beschreibung
 
@@ -17,7 +17,7 @@
 - **Verkabelungsaufwand**
   - sehr hoch
 
-<center>
+<div class="vergleichstabelle">
 
 |                     | Bus | Ring | Stern | Mesh |
 |---------------------|-----|------|-------|------|
@@ -25,7 +25,7 @@
 | Fehlertoleranz      | +   | -    | +     |      |
 | Verkabelungsaufwand | ++  | +    | -     |      |
 
-</center>
+</div>
 
 > [!AUFGABE]
 > Überlege dir anhand der vorgegangenen Kriterienuntersuchungen für Bus, Ring und Stern, inwiefern die Kriterien durch das Mesh erfüllt werden.

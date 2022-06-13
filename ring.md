@@ -1,6 +1,6 @@
 # Ringtopologie
 
-![Bild eines Ring-Netzwerkes](https://upload.wikimedia.org/wikipedia/commons/7/71/Netzwerktopologie_Ring.png 'https://upload.wikimedia.org/wikipedia/commons/7/71/Netzwerktopologie_Ring.png')
+![Bild eines Ring-Netzwerkes](images/ring.svg ':size=400 Schaubild Ringtopologie')
 
 ## Beschreibung
 
@@ -17,7 +17,7 @@
 - **Verkabelungsaufwand**
   - immernoch recht gut, für jeden Rechner ein Kabel, plus ein Kabel um den Ring zu schließen
 
-<center>
+<div class="vergleichstabelle">
 
 |                     | Bus | Ring |
 |---------------------|-----|------|
@@ -25,4 +25,4 @@
 | Fehlertoleranz      | +   | -    |
 | Verkabelungsaufwand | ++  | +    |
 
-</center>
+</div>

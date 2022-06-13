@@ -1,6 +1,6 @@
 # Sterntopologie
 
-![Bild eines Stern-Netzwerkes](https://upload.wikimedia.org/wikipedia/commons/5/53/Netzwerktopologie_Stern.png 'https://commons.wikimedia.org/wiki/File:Netzwerktopologie_Stern.png')
+![Bild eines Stern-Netzwerkes](images/stern.svg ':size=400 Schaubild Sterntopologie')
 
 ## Beschreibung
 
@@ -20,7 +20,7 @@
 - **Verkabelungsaufwand**
   - jeder Rechner ein Kabel plus Switch als Zentrales Element → schlechter als Ring
 
-<center>
+<div class="vergleichstabelle">
 
 |                     | Bus | Ring | Stern |
 |---------------------|-----|------|-------|
@@ -28,4 +28,4 @@
 | Fehlertoleranz      | +   | -    | +     |
 | Verkabelungsaufwand | ++  | +    | -     |
 
-</center>
+</div>

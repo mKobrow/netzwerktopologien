@@ -1,6 +1,6 @@
 # Bustopologie
 
-![Bild eines Bus-Netzwerkes](https://upload.wikimedia.org/wikipedia/commons/3/32/Netzwerktopologie_Bus.png 'https://commons.wikimedia.org/wiki/File:Netzwerktopologie_Bus.png')
+![Bild eines Bus-Netzwerkes](images/bus.svg ':size=400 Schaubild Bustopologie')
 
 ## Beschreibung
 
@@ -18,7 +18,7 @@
 - **Verkabelungsaufwand**
   - sehr gering
 
-<center>
+<div class="vergleichstabelle">
 
 |                     | Bus |
 |---------------------|-----|
@@ -26,4 +26,4 @@
 | Fehlertoleranz      | +   |
 | Verkabelungsaufwand | ++  |
 
-</center>
+</div>
