@@ -4,5 +4,5 @@
   - [Ringtopologie](ring.md)
   - [Sterntopologie](stern.md)
   - [Meshtopologie](mesh.md)
-
+- [Aufgaben](aufgaben.md)
 - [Quellen](quellen.md)
