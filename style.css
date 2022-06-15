@@ -10,6 +10,14 @@
     color: #42b983;
 }
 
+.alert.callout.question {
+    border-left-color: #c237d4 !important;
+}
+
+.alert.callout.question .title {
+    color: #c237d4;
+}
+
 .vergleichstabelle {
     display: flex;
     align-items: center;

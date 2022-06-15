@@ -27,3 +27,6 @@
 | Verkabelungsaufwand | ++  |
 
 </div>
+
+> [!FRAGE]
+> Ist es in einem Bus-Netzwerk möglich eine Nachricht nur an speziell ein anderes Gerät zu senden, ohne dass die anderen Geräte sie lesen könnten?

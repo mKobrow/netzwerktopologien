@@ -15,7 +15,7 @@
 - **Fehlertoleranz**
   - Ausfall eines Rechners oder Kabels führt direkt zu totalausfall des Netzes
 - **Verkabelungsaufwand**
-  - immernoch recht gut, für jeden Rechner ein Kabel, plus ein Kabel um den Ring zu schließen
+  - immernoch recht gut
 
 <div class="vergleichstabelle">
 
@@ -26,3 +26,6 @@
 | Verkabelungsaufwand | ++  | +    |
 
 </div>
+
+> [!FRAGE]
+> Angenommen n sei die Anzahl an Geräten in einem Ring-Netzwerk. Wie viele Kabel werden für dieses Netzwerk benötigt?

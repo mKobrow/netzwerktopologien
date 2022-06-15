@@ -29,3 +29,6 @@
 | Verkabelungsaufwand | ++  | +    | -     |
 
 </div>
+
+> [!FRAGE]
+> Wie könnte man den Komplettausfall der Kommunikation bei Ausfall des Switches verhindern?
